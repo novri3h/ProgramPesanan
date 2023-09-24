@@ -6,15 +6,28 @@
 
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/Aplikasi-Data-Karyawan/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/ProgramPesanan/graphs/commit-activity)
 
 ## Features Program Pesanan
+[Menu File]
+- Kasir
+- Barang
+- Kurir
 
-- Input Data
-- Cari Data
-- Cetak Data
-- User
+[Menu Transaksi]
+- Pesanan
+- Pengiriman
 
+[Menu Laporan]
+- Data barang
+- Rincian Pemesanan
+- Rincian pengiriman
+- Akumulasi Pemesanan
+- Akumulasi Pengiriman
+
+[Jejak Transaksi
+- Pemesanan
+- Pengiriman
 ## Tech
 
 Aplikasi ini dibangun dengan menggunakan:
@@ -47,8 +60,9 @@ Aplikasi ini dibangun dengan menggunakan:
 
 Install Visual Basic 6 dan Crystal Reports.
 
-<div align="justify">Jalankan Aplikasi.vbp untuk merubah Code</div>
-<br>
+```sh
+Jalankan Program Pesanan.vbp untuk merubah Code atau klik Program Pemesanan Barang.exe untuk menjalankan aplikasinya
+```
 Untuk Login Ke aplikasi Username dan password ---> admin
 <br>
 
